@@ -8,7 +8,7 @@
 
 
 - 🏢 I'm a Junior Software Engineer 
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 A CS student, I'm constantly learning and exploring new technologies to improve my skills.
 
 
 
