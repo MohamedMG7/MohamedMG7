@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Graduation Project**
 
-- 🌱 I’m currently learning **SignalR**
+- 🌱 I’m currently learning **Angular**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1OWE1sPn2DdKAm_zExESIR9JIc-gWYmdh/view?usp=sharing](https://drive.google.com/file/d/1OWE1sPn2DdKAm_zExESIR9JIc-gWYmdh/view?usp=sharing)
 
