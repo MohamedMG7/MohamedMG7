@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedmg7" alt="mohamedmg7" /></a> </p>
 
-- 🔭 I’m currently working on **Graduation Project**
+- 🔭 I’m currently working on **My Startup**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Microservices**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1OWE1sPn2DdKAm_zExESIR9JIc-gWYmdh/view?usp=sharing](https://drive.google.com/file/d/1OWE1sPn2DdKAm_zExESIR9JIc-gWYmdh/view?usp=sharing)
 
