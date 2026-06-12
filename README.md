@@ -1,6 +1,12 @@
-My Name is mohamed abdulghany. i write code and sleep late.
-
-📫 Reach me (you probably shouldn’t):<br>
-<a href="https://www.linkedin.com/in/mabdelghanyi" target="_blank">
-  LinkedIn profile
-</a>
+# Hey, I'm Mohamed
+ 
+I'm a computer enthusiast and web developer from Egypt. I like understanding how things work — systems, software, the web.
+ 
+I build backend-heavy web applications: APIs, dashboards, SaaS tools, and anything that lives on a server and solves a real problem.
+ 
+**Tech-stack:** C# · ASP.NET Core · SQL Server · Postgresql · React · Angular · TypeScript · HTML · CSS · Python · NodeJs · Docker
+ 
+---
+ 
+Open to freelance work and collaboration.  
+[mohamedabdulghany.com](http://mohamedabdulghany.com) · [LinkedIn](https://linkedin.com/in/mabdelghanyi)
